@@ -1,14 +1,12 @@
 ---
 title: Welcome to My Blog!
-category: Welcome
+category: General
 ---
-Howdy! I'm July, a student full-stack-developer from Shanghai, China. Learn more about me  [here](/about) or visit my website [julyw.com](https://julyw.com/). 
+Hi! I'm July, a student developer and swimming athlete from Shanghai, China. You may learn more about me  [here](/about) or visit my own special space on the internet [julyw.com](https://julyw.com/). 
 
-## What is this for?
+## My Blog
 
-I regularly make updates and write articles here. Usually, they're about stuff I find interesting, tutorials for a lot of different things (coding, astronomy, math...anything), or just random thoughts/experiences. Have fun!
+I regularly make updates and write articles here, perhaps one article per month. Usually, they are about anything I find interesting, whether tutorials, insights, tips or just random thoughts/experiences. Have fun!
 
-
-
-> Btw, if you like what I write/make/believe, feel free to connect with me! (Links on your left)
+> By the way, if you like what I write/make/believe, feel free to reach out and connect with me in any form!
 
