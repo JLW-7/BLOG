@@ -3,68 +3,68 @@ title: How to Spot Projects Worth Your Time
 category: Computer Science
 ---
 
-> *This post reflects my own experience and observations, written for developers and professionals looking to spend their time on projects that matter.*
+> *This post is based on my own experience and observations, written for developers/professionals looking to find and spend time on projects that actually matter.*
 
 ## Introduction
 
-At some point, most developers run into the same question: *What should I build?*  Ideas are easy to come by, but many that seem exciting at first lose their appeal once work begins. Over time, I’ve learned that the real skill is not coming up with ideas, but deciding which ones are worth pursuing.
+So I've found that at some point, most developers run into the same question: *What should I build?* Well, ideas are easy to come by, but many that seem exciting at first lose their appeal once work begins. Over time, I’ve learned that **choosing the right ideas** are more important than coming up with them.
 
 ---
 
 ## Start With Yourself
 
-The projects that last tend to start with a real problem. It's often useful to ask:
+The projects that last tend to start with a real-world problem. It is often useful to ask:
 
 - What problems do I encounter repeatedly?
 - What topics or activities do I naturally spend time on?
 - Where could I combine my interests or skills in a meaningful way?
 
-When a project solves a problem you personally experience, staying motivated becomes much easier.
+When a project solves a problem you personally experience, you get motivation much easier.
 
 ---
 
 ## Think Small First
 
-Large ideas can be motivating, but they are also easy to abandon. Starting small makes progress more likely.
+Many large ideas can be motivating, but difficult too, thus easy to abandon. Starting a smaller project and going step by step helps make more progress.
 
 - Focus on a single, essential feature in the beginning
 - Avoid over-polishing or overloading at first
 - Use the early version to learn and adjust; add more features as you go
 
-A simple, completed project often provides more value than an ambitious one that never ships. Using a [project building tracker](https://github.com/JLW-7/CodeLog) or a to-do list often helps.
+I find that a simple, completed project, is often more valuable than a gigantic one that's never shipped. Using a [project building tracker](https://github.com/JLW-7/CodeLog) or a to-do list often helps.
 
 ---
 
 ## Ask the Right Questions
 
-Before committing to an idea, I usually take a step back and consider:
+Before committing to an idea, it is usually best to go back and consider:
 
 - Would I realistically use this myself in an aspect of life?
-- Does building it help me learn or improve a skill?
-- Can this idea be understood quickly by both myself and others?
-- Do I feel genuinely interested in and drawn to building it?
+- Does building it help me learn or improve something?
+- Can this idea be understood by both myself and others?
+- Do I feel genuinely interested in and curious about building it?
 
-If most answers are no, it is usually better to rethink the idea.
+If most answers are no, it might be better to rethink the idea.
 
 ---
 
 ## Observation Is Important
 
-Good project ideas often come from improving what already exists:
+Although many good ideas are completely new inventions, some project ideas may come from improving what already exists. So think:
 
 - Can an existing tool be simplified or improved?
 - Could two ideas or subjects be combined into something more effective?
 - Is there a small, recurring inconvenience in life that could be removed?
 
-Innovation often comes from noticing details rather than starting from scratch.
+Innovation sometimes comes from noticing details rather than starting from scratch.
 
 ---
 
 ## Reality Checks
 
-- Test your assumptions early, before you start committing
-- Share the idea with people outside your usual circle and collect feedback
-- Treat feedback as information to improve, not criticism
+- Test your assumptions early on, before you start committing to the project
+- Share the idea with people outside your own circle and collect some feedback
+- Treat that feedback as information to improve but not criticism
 
 Early feedback can reveal problems that are difficult to see when working alone.
 
@@ -75,17 +75,18 @@ Early feedback can reveal problems that are difficult to see when working alone.
 It is reasonable to stop working on a project if:
 
 - It is too difficult to explain the project idea clearly
-- There are no people or communities interested beyond yourself
-- Your curiosity has faded after some time
+- It's just a random redundant idea instead of a solution to a problem
+- No people or communities are interested beyond yourself or a few others
+- Your curiosity and motivation has faded after some time
 
 However, it is not always a reason to stop if:
 
 - Similar projects are being done by others (you can build a better one)
 - The idea already exists in some form (action is more important than ideas)
-- Others do not immediately understand it (an area of improvement)
+- Others do not immediately understand it (that's an area of improvement on the idea)
 
 ---
 
 ## Closing Thoughts
 
-Strong project ideas tend to emerge naturally from **everyday frustrations, long-standing interests, or repeated thoughts**. Writing ideas down and revisiting them over time helps identify which ones truly matter. The ideas that continue to hold your attention are often the ones worth building.
+So all in all, strong project ideas usually emerge naturally from **everyday frustrations, long-standing interests, or repeated thoughts**. You may want to write ideas down and revisit them, so over time you can identify which ones truly matter. The ideas that continue to hold your attention are often the ones worth building and spending time on.
