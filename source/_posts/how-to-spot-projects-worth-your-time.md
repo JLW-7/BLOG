@@ -3,90 +3,91 @@ title: How to Spot Projects Worth Your Time
 category: Computer Science
 ---
 
-> *This post is based on my own experience and observations, aimed at developers and professionals looking for meaningful projects.*
+> *This post reflects my own experience and observations, written for developers and professionals looking to spend their time on projects that matter.*
 
 ## Introduction
 
-We’ve all been there: staring at a blank screen, asking “what should I build?” and ending up with ideas that sound cool in theory but fall flat in practice. The key really isn’t generating a list of ideas, it’s learning how to **choose**.
+At some point, most developers run into the same question: *What should I build?* Ideas are easy to come by, but many that seem exciting at first lose their appeal once work begins. Over time, I’ve learned that the real skill is not coming up with ideas, but deciding which ones are worth pursuing.
 
 ---
 
 ## Start With Yourself
 
-Projects are easiest to stick with when they come from a **genuine itch you want to scratch**. Ask yourself:
+The projects that last tend to start with a real problem. I find it useful to ask:
 
-- What problems annoy me every day?  
-- Which hobbies or interests do I naturally spend time on?  
-- Where could I combine multiple skills for something interesting?  
+- What problems do I encounter repeatedly?
+- What topics or activities do I naturally spend time on?
+- Where could I combine my interests or skills in a meaningful way?
 
-If it’s a problem you actually face, the motivation to finish it will almost come for free.
+When a project solves a problem you personally experience, staying motivated becomes much easier.
 
 ---
 
 ## Think Small First
 
-Big, ambitious ideas are tempting, but it’s better to start with something **tiny you can actually ship**.  
+Large ideas can be motivating, but they are also easy to abandon. Starting small makes progress more likely.
 
-- Build a single feature that tests your idea  
-- Don’t worry about polish yet  
-- Use it to learn what works and what doesn’t  
+- Focus on a single, essential feature
+- Avoid over-polishing at the beginning
+- Use the early version to learn and adjust
 
-The simplest project can teach more than months spent on something massive that never sees the light of day.
+A simple, completed project often provides more value than an ambitious one that never ships.
 
 ---
 
 ## Ask the Right Questions
 
-Before you start coding, run your idea through these mental checkpoints:
+Before committing to an idea, I usually take a step back and consider:
 
-- Would I use this myself, right now?  
-- Does this challenge me enough to learn something new?  
-- Could someone else benefit from this without me explaining it for 10 minutes?  
-- Am I actually excited about building it, or does it feel like homework?  
+- Would I realistically use this myself?
+- Does it help me learn or improve a skill?
+- Can the idea be understood quickly?
+- Do I feel genuinely interested in building it?
 
-If the answer isn’t “yes” to most of these, reconsider.
+If most answers are no, it is usually better to rethink the idea.
 
 ---
 
 ## Observation Is Important
 
-Sometimes the best projects may come from **improving existing things**:  
+Good project ideas often come from improving what already exists:
 
-- Can a current tool be made simpler, faster, or more fun?  
-- Could I combine two unrelated tools to make something new?  
-- Is there a small friction point in daily life I can remove?  
+- Can an existing tool be simplified?
+- Could two ideas be combined into something more effective?
+- Is there a small, recurring inconvenience that could be removed?
 
-Innovation might not always mean starting from scratch, it often means **seeing gaps where others don’t**.
+Innovation often comes from noticing details rather than starting from scratch.
 
 ---
 
 ## Reality Checks
 
-- Test your assumptions early  
-- Share your prototype with someone outside your field  
-- Use feedback to adjust, not justify  
+- Test assumptions early
+- Share the idea with people outside your usual circle
+- Treat feedback as information, not criticism
 
-A project that seems perfect in your head can fail immediately if no one actually wants it, or if it doesn’t make sense at first glance.
+Early feedback can reveal problems that are difficult to see when working alone.
 
 ---
 
 ## Know When to Move On
 
-It’s okay to kill an idea. Consider dropping it if:
+It is reasonable to stop working on a project if:
 
-- You can’t explain it in one sentence  
-- Nobody else is excited except you  
-- You’ve lost interest after weeks of trying  
+- It is difficult to explain clearly
+- There is no interest beyond yourself
+- Your curiosity has faded over time
 
-But don’t kill it just because:
+However, it is not always a reason to stop if:
 
-- Someone else is doing something similar  
-- It’s been done before  
-- Friends don’t “get it” (they might not be your audience)
+- Similar projects already exist
+- The idea has been done before
+- Others do not immediately understand it
+
+Not every project is meant for everyone.
 
 ---
 
 ## Closing Thoughts
 
-The best project ideas usually **show up naturally**: a small frustration, a hobby you love, a spark of curiosity. Keep a notes app open, jot down random thoughts, and revisit them. The ones that stick with you over time are often the ones worth building.  
-
+Strong project ideas tend to emerge naturally from everyday frustrations, long-standing interests, or repeated thoughts. Writing ideas down and revisiting them over time helps identify which ones truly matter. The ideas that continue to hold your attention are often the ones worth building.
