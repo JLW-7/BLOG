@@ -13,7 +13,7 @@ favicon:                   # Path to the custom favicon relative to /source (e.g
 # Banner
 banner:
   enable: true                  # Display banner
-  url: /sky-banner.jpg                          # Path to the banner image relative to /source. Web url is also supported
+  url: /banner.png                          # Path to the banner image relative to /source. Web url is also supported
   position: center               # Specifies the alignment of the image, see the "object-position" property in CSS
   onAllPages: false               # Display banner on all pages instead of only the home page
 
@@ -62,7 +62,7 @@ comment:
     enable: false       # Enable Valine comment system
     appId: 
     appKey: 
-    placeholder: Better say something cool...
+    placeholder: What's on your mind?
     pageSize: 10
     highlight: true
     serverURLs: 

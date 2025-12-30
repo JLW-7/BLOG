@@ -5,20 +5,20 @@
 # Site
 title: July's Blog
 subtitle: 'July Wu'
-description: 'This is my blog, where I regularly make updates and write articles.'
-keywords: 
+description: 'This is my blog, where I regularly make updates and write articles on anything of interest.'
+keywords: blog, personal, hexo, javascript, programming, computer science, swimming, web development, astronomy, wushu, formula 1, volleyball, music composition
 author: July Wu
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://blog.julywu.com/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+  trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
+  trailing_html: false # Set to false to remove trailing '.html' from permalinks
 
 # Directory
 source_dir: source
@@ -77,7 +77,7 @@ meta_generator: true
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
+date_format: YYYY.MM.DD
 time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
 updated_option: 'mtime'
