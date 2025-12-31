@@ -63,7 +63,7 @@ Innovation sometimes comes from noticing details rather than starting from scrat
 ## Reality Checks
 
 - Test your assumptions early on, before you start committing to the project
-- Share the idea with people outside your own circle and collect some feedback
+- Share the idea with people outside your own circle and collect feedback
 - Treat that feedback as information to improve but not criticism
 
 Early feedback from those around you can reveal problems that are difficult to see when you're working alone.
@@ -77,20 +77,20 @@ At this point, some checks you can do:
 Stop working on a project if:
 
 - It is too difficult to explain the project idea clearly
-- It's just a random redundant idea instead of a solution to a problem
-- No people or communities are interested beyond yourself or a few others
-- Your curiosity and motivation has faded after some time of working on it
+- It's just a random redundant thought instead of a solution to a problem
+- No people or communities are interested beyond yourself
+- Your curiosity and motivation has faded after some time of working
 
 But don't stop working on it if:
 
-- Similar projects are being done by others (you can build a better one duh)
-- The idea already exists in some form (action is more important than ideas!)
-- Others do not immediately understand it (see that's an area of improvement on your idea)
+- Similar projects are being done by others (you can build a better)
+- The idea already exists in some form (action is more important than ideas)
+- Others do not immediately understand it (that's an area of improvement on your idea)
 
 ---
 
 ## TL;DR
 
-Overall, strong project ideas are ones that emerge naturally (and are not forced) from your or others' **everyday frustrations, interests, or repeated thoughts**. You may want to note down ideas and come back to them, so over time you can identify which ones you want to work on. 
+Overall, strong project ideas are ones that emerge **naturally** from your or others' **everyday frustrations, interests, or repeated thoughts**. You may want to note down ideas and come back to them, so over time you can identify which ones you want to work on. 
 
 By the way, you don't *need* to follow this guide, you can come up with your own way of deciding too :)

@@ -3,77 +3,81 @@ title: About Me
 date: 2025-3-11 17:23:20
 ---
 
-## About Me 😎
+> You can find more on my personal website at [julyw.com](https://julyw.com/) and please follow me on [GitHub](https://github.com/JLW-7)!
 
-I’m July, a 13 year old student developer based in Shanghai. I build software and hardware that can actually solve real-world problems and make a positive difference to others, whether it's those around me, or the whole world.  
+## About Me
 
-I have many [other interests](#other-things-i-care-about) beyond programming. I don’t really see these interests as separate. Programming, sports, science, and music all connect in ways that aren’t obvious at first, but they start to make sense once you spend enough time with them.
+Hey, I’m July, a 13-year-old student developer based in Shanghai. I build software and hardware to solve real problems and create meaningful things for others, whether that impact is small and personal or broader in scale.  
 
----
-
-## Programming and Building 💻
-
-Programming is the tool I use most often, something I started self-learning in 5th grade. It’s how ideas turn into something concrete. For me, code is not just about functionality, but about structure and clarity. When a system makes sense in your head and also works on a screen, that’s a satisfying moment.  
-
-I’m especially interested in **AI and machine learning**. What draws me in is not just the results, but the underlying mechanics. I like understanding what is actually happening beneath the abstractions, why a model behaves the way it does, and how math, data, and design choices all interact.  
-
-I don’t rush to “know everything.” I usually start by building, get confused, break things, then go back and learn what I was missing.
+Beyond programming, I have many other interests. I don’t see them as separate. Sports, science, music, and technology constantly intersect. 
 
 ---
 
-## Swimming 🏊
+## Programming and Building
 
-Outside of programming, I am a full-time competitive swimmer and represent Shanghai in national and international competitions. Since I was 6, I have been training six times a week, 2–4 hours per session, for over eight years.  
+Programming is the tool I rely on most. I began teaching myself in fifth grade, intrigued that ideas could become real stuff through computers, which is why I'm dedicated to making a positive impact on others. I like the quiet satisfaction in building a system that makes sense both in your mind and on the screen.  
 
-Practice is repetitive, exhausting, and often monotonous. You spend a lot of time staring at the same tiles, doing the same movements, thinking about very small adjustments. Every stroke is an experiment, every day you learn something new although you're completely drained at the end. I believe progress comes from consistency, discipline, and curiosity to details.
+I am especially interested in **artificial intelligence and machine learning**. What excites me is not just what these systems can do, but how they work. I like digging beneath the abstractions, understanding why a model behaves the way it does, and seeing how mathematics, data, and design choices shape outcomes.  
 
-### My Journey 💪
-
-My pursuit as a swimming athlete has never been easy, and resilience matters just as much. Throughout my journey, I've been through unimaginable pain and challenges that seem impossible to surmount.  
-
-Take my **2023 elbow fracture** as an example. I had to undergo two surgeries to nail two pins into my bones, and two months with my arm in a cast. When everybody gave up on me, I kept pushing despite both the physical and mental pain of recovery. My efforts paid off in the end, with me returning to the pool faster and stronger than before. Looking back, I am incredibly proud of myself for never giving up or losing hope.  
-
-That mindset carries over into how I work on projects. Improvement is usually slow, but it compounds.
+I rarely try to understand everything at once. I'm almost always building and breaking stuff at the same time. That cycle is far more fun than following a straight path.
 
 ---
 
-## Other Interests 🌟
+## Swimming
 
-### Formula 1 
-I am a huge F1 fan, and I have just gotten into it recently. My favorite team is Red Bull Racing with my favorite driver being Max Verstappen. Following race strategies and the engineering behind F1 cars has taught me strategic thinking and important physics concepts..
+Outside of programming, I am a competitive swimmer and represent Shanghai in national and international competitions. I have been training since age six, practicing 6 times a week for 2-4 hrs per session. 
 
-### Violin 
-I play the violin in my school orchestra and chamber music group. I have been learning it since I was 5, which taught me early on that **precision and expression can exist at the same time**.
+Training is pretty repetitive and physically demanding. Much of it is just staring at the same tiles, repeating the same motions, and focusing on tiny details. Every stroke's experiment, and every practice offers something new to learn, even when you're exhausted. Progress comes not from dramatic breakthroughs, but from discipline, consistency, and attention to detail.
 
-### Astrophysics 
-I’m deeply interested in astrophysics, mostly because of how it forces you to think at completely different scales, and how much there is to explore. It’s hard to worry about small things when you’re thinking about black holes, strange matter, and galaxies.
+### My Journey
 
-### Investment 
-I love learning about investing and economics. I research stocks and practice by earning (fake) money on simulators, which pushed me to think long term and adapt to uncertainty.
+My path has never been smooth, and resilience has mattered just as much as talent. I have faced moments of intense pain and challenges that felt impossible to overcome.  
 
-### Music Composition 
-I make electronic music in **GarageBand** and **LogicPro**, inspired by my favorite music artists, mostly as a way to experiment and relax.
+One of the most difficult was my **elbow fracture in 2023**. I underwent two surgeries, had pins inserted into my bones, and spent two months with my arm in a cast. During that time, many people doubted whether I would return to the pool at the same level. Despite the physical and mental strain, I kept pushing forward.  
 
-### Wushu 
-I practice Wushu, a form of Chinese martial arts, which helps with focus and control. I do it for fun and usually perform at school on special occasions. I especially love Wushu swordfighting.
+That effort eventually paid off. I returned to training faster and stronger than expected. Looking back, I am proud not only of the outcome, but of the fact that I never gave up.
 
-### Volleyball 
-Volleyball used to be a very important part of my life. I played at school as the Middle-Blocker or Setter, where I learned that **coordination and teamwork matter more than individual skill**. In recent years, I've focused more on swimming.
+That mindset carries into how I approach projects today. 
 
 ---
 
-## My Goals 🚀
+## Other Interests
 
-My long-term goal is to deeply understand **artificial intelligence** and become an **AI and machine learning engineer**. I’m not just interested in using tools, but in understanding the systems behind them well enough to build responsibly and thoughtfully.  
+### Formula 1  
+I am an avid Formula 1 fan and recently began following the sport closely. My favorite team is Red Bull Racing, and my favorite driver is Max Verstappen! Studying race strategy and the engineering behind the cars has strengthened my strategic thinking and deepened my understanding of physics.
 
-I’m still early in the process, but that doesn’t bother me. If anything, it makes things more interesting, as to me, the process matters as much as the result.
+### Violin  
+I play the violin in my school orchestra and chamber music group. I have been learning since the age of five, which taught me early on that precision and expression can coexist.
+
+### Astrophysics  
+I am deeply interested in astrophysics (you know black holes, galaxies, and all that). I sometimes stargaze through my professional telescope in my backyard.
+
+### Investment  
+I enjoy learning about investing and economics. I research companies and practice using simulators, which has helped me think long-term and adapt to uncertainty.
+
+### Music Composition  
+I create electronic music using GarageBand and Logic Pro, inspired by my favorite artists. It's mainly just for me to experiment and relax.
+
+### Wushu  
+I love to practice Wushu, a traditional form of Chinese martial arts, which helps me develop focus and control. I perform occasionally at school events and especially enjoy sword routines.
+
+### Volleyball  
+Volleyball once played a major role in my life. I played as a middle blocker and setter and learned about **coordination and teamwork**. However in recent years, my focus has shifted primarily to swimming.
 
 ---
 
-## About This Blog ✍️
+## My Goals
 
-This space is where I write anything that comes to mind as well as insights I believe are valuable sharing. I’ll give tips and advice on any topic of interest, write about projects I’m building, ideas I’m stuck on, things I learned along the way, and connections I notice between different fields.  
+My long-term goal is to dive deeper into **artificial intelligence** and become an **AI or machine learning engineer**. I want to go beyond using existing tools and instead understand the systems well enough to build responsibly and thoughtfully.  
 
-It’s less about teaching and more about **self-reflection** and keeping track of how my understanding changes over time.
+I am still at the beginning of that journey, and that excites me. The process of learning matters as much as the result.
 
-> Stick around, it'll be fun and I'd love to share my insights with you. Be sure to check out more on my personal website [julyw.com](https://julyw.com/) and follow me on [GitHub](https://github.com/JLW-7)!
+---
+
+## About This Blog
+
+This space is where I document ideas, projects, and insights. I write about things I am building, questions I am stuck on, lessons I learn along the way, and connections I notice across different fields.  
+
+It can also be seen as my regular **self-reflections**, where my thinking evolves over time
+
+> Stick around. My insights are valuable and you should go read them. Oh, have fun, too.
